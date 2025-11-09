@@ -1,0 +1,34 @@
+# Web Framework
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+
+# Web Scraping
+beautifulsoup4
+requests
+lxml
+
+# ML & Embeddings
+sentence-transformers
+torch
+transformers
+
+# Vector Search
+faiss-cpu
+
+# Data Processing
+pandas
+openpyxl
+numpy
+
+# LLM Integration
+google-generativeai
+
+# Utilities
+python-dotenv
+python-multipart
+
+# Testing
+pytest
+httpx

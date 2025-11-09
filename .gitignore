@@ -1,0 +1,42 @@
+# Virtual Environments
+backend/shl/
+backend/venv/
+backend/env/
+venv/
+shl/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+
+# Node
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+
+# Data & Models
+backend/data/models/
+backend/data/processed/
+*.pkl
+*.bin
+*.pth
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Outputs
+backend/outputs/
+outputs/
+
+# IDE
+.vscode/
+.idea/
